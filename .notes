@@ -1,0 +1,14 @@
+mongod --dbpath ./ 
+
+
+ to start the database
+
+
+ then open project here in vs code and start backend server using command 
+
+
+ cd backend
+ node server.js
+
+ then start frontend server usign commad
+ npm start
